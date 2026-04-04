@@ -25,7 +25,7 @@ Bu proje, popüler **Palmer Penguins** veri setini kullanarak kullanıcıya inte
 
 1. **Depoyu klonlayın:**
    ```bash
-   git clone [https://github.com/kullaniciadi/proje-adi.git](https://github.com/kullaniciadi/proje-adi.git)
+   https://github.com/YavuzSelim060917/Penguen-Veri-Analiz-Botu.git
 
 2. **Gerekli kütüphaneleri yükleyin:**
    pip install pandas seaborn matplotlib
